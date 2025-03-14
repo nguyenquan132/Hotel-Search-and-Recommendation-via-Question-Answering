@@ -5,7 +5,7 @@
 ## Introduction
 In the era of travel and technological advancement, searching for and recommending hotels that meet users' needs has become a critical challenge. This problem requires not only the ability to retrieve accurate information but also the capability to understand the context and specific requirements of users through natural language questions.
 
-**Objective**: To build a system capable of answering user questions about hotels while providing recommendations based on criteria such as location, desciprtion, ratings.
+**Objective**: To build a system capable of answering user questions about hotels while providing recommendations based on criteria such as location, description, and ratings.
 
 **Key Features**: 
 * Preprocess and analyze data before chunking to improve retrieval efficiency.
