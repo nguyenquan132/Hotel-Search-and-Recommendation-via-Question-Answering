@@ -50,5 +50,7 @@ streamlit run app.py
 ```
 
 ## Demo
-<img src="test/test1.png" width="50%" style="display: inline-block;">
-<img src="test/test2.png" width="50%" style="display: inline-block;">
+<div style="display: flex;">
+    <img src="test/test1.png" width="48%">
+    <img src="test/test2.png" width="48%">
+</div>
