@@ -14,9 +14,9 @@ In the era of travel and technological advancement, searching for and recommendi
 * Leverage a large language model (LLM) to generate accurate answers to user queries.
 
 ## Technologies
-- Framework: Langchain, FastAPI, Streamlit
-- Vector Database: PineCone
-- Large Language Model: Gemini
+- **Framework**: Langchain, FastAPI, Streamlit
+- **Vector Database**: PineCone
+- **Large Language Model**: Gemini
 
 ## Installation 
 
