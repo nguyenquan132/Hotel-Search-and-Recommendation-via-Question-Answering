@@ -1,0 +1,11 @@
+langchain-core 
+langgraph>0.2.27
+langchain-community
+langchain_pinecone
+pinecone
+streamlit
+fastapi[stardard]
+gpt4all
+langchain-google-genai
+langchain_deepseek
+uvicorn
