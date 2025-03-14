@@ -38,7 +38,8 @@ pip install -r requirements.txt
 ```
 
 ### **3. Run Application**
-To start the application, follow these steps:
+To start the application, follow these steps: 
+
 1️⃣ **Run the backend** using the following command:
 ```bash
 uvicorn main:app --reload
@@ -49,6 +50,5 @@ streamlit run app.py
 ```
 
 ## Demo
-<video>
-    <source src="demo/Hotel Search and Recommendation via Question Answering - Brave 2025-03-15 01-57-37.mp4" type="video/mp4">
-</video>
+<img src="test/test1.png" width="50%" style="display: inline-block;">
+<img src="test/test2.png" width="50%" style="display: inline-block;">
